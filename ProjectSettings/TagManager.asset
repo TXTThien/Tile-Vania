@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Exit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Player
+  - Background
+  - Bouncing
+  - Enemies
+  - Hazard
+  - Bullet
+  - Exit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3484551457
+    locked: 0
+  - name: Water
+    uniqueID: 2513328417
+    locked: 0
+  - name: Lava
+    uniqueID: 3403354223
+    locked: 0
+  - name: Ladder
+    uniqueID: 1718558341
+    locked: 0
+  - name: Bouncing
+    uniqueID: 2949365605
+    locked: 0
+  - name: Hazard
+    uniqueID: 2448936649
+    locked: 0
+  - name: Tilemap
+    uniqueID: 4022596047
+    locked: 0
+  - name: Enemies
+    uniqueID: 3930294309
+    locked: 0
+  - name: Exit
+    uniqueID: 2312057953
+    locked: 0
+  - name: Player
+    uniqueID: 1629684177
+    locked: 0
